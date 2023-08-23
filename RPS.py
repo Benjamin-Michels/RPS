@@ -1,5 +1,4 @@
 import random
-roundsplayed = 0
 
 def rock_paper_scissors():
     usrInput = input("Pick rock, paper, or scissors: ")
